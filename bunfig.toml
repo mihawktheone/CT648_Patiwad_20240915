@@ -1,0 +1,2 @@
+name = "my-earthquake-app"
+main = "public/index.html"
